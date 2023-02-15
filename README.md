@@ -3,6 +3,12 @@
 Dotfiles are files used for customizing Linux or other Unix-based systems. They are named with a leading dot to indicate that they are hidden files or directories. This repository contains my personal dotfiles, which are conveniently stored for quick access on new machines or 
 installations. Furthermore, other users may find some of the included configurations helpful for enhancing their own dotfiles.
 
+# Programs in my dotfiles
+
+1. The bash shell
+2. The Kitty terminal emulator
+3. The Starship prompt for UNIX shells
+
 # Requirements to use my dotfiles
 
 1. Kitty Terminal ``` sudo pacman -S kitty ```
