@@ -6,4 +6,5 @@ installations. Furthermore, other users may find some of the included configurat
 # Credits
 
 The OneDark.conf for the Kitty Terminal is the property of Giuseppe Cesarano <https://github.com/GiuseppeCesarano>
+
 The .bashrc for the Bash Shell is based on the work of Derek Taylor <https://gitlab.com/dwt1>
