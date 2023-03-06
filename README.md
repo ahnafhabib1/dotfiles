@@ -6,15 +6,25 @@ installations. Furthermore, other users may find some of the included configurat
 # Programs in my dotfiles
 
 1. The bash shell
-2. The Kitty terminal emulator
+2. The Kitty terminal emulator (optional) or use iTerm2 on macOS
 3. The Starship prompt for UNIX shells
 
-# Requirements to use my dotfiles
+# Requirements to use my dotfiles on Arch Linux
 
 1. Kitty Terminal ``` sudo pacman -S kitty ```
 2. Firacode Nerd Font ``` sudo pacman -S ttf-firacode-nerd ```
 3. Starship Prompt ``` curl -sS https://starship.rs/install.sh | sh ```
 4. Misc. ``` sudo pacman -S bat exa ``` - bat is better version of "cat" while exa is a better version of "ls"
+
+
+# Requirements to use on macOS Big Sur and later
+
+1. Homebrew ``` /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)" ```
+2. Firacode Nerd Font 
+3. Iterm2 Terminal
+3. Starship Prompt ``` curl -sS https://starship.rs/install.sh | sh ```
+4. Misc. ``` brew install exa bat ``` - bat is better version of "cat" while exa is a better version of "ls"
+
 
 # How to use my dotfiles on another system?
 
